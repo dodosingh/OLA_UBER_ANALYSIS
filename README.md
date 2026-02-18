@@ -35,20 +35,26 @@ Revenue Performance
 Dashboard Features:
 
 Overall ride success performance overview
+
 Vehicle type success comparison
+
 Cancellation reason analysis
+
 Driver availability insights
+
 Peak hour and weekday demand trends
+
 High-demand route identification
+
 Worst-performing locations and vehicle categories
 
 Major Insights:
 
-Driver-related issues contribute to a large share of cancellations
-Certain vehicle types show lower success rates due to limited driver availability
-Peak demand hours experience higher failure rates
-Specific pickup-drop routes have high demand but low success
-Service delays increase cancellation probability
+Driver-related issues contribute to a large share of cancellations.
+Certain vehicle types show lower success rates due to limited driver availability.
+Peak demand hours experience higher failure rates.
+Specific pickup-drop routes have high demand but low success.
+Service delays increase cancellation probability.
 
 Business Recommendations:
 
